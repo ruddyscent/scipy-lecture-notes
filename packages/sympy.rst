@@ -468,6 +468,6 @@ to force dsolve to resolve it as a separable equation::
    1. Solve the Bernoulli differential equation
 
     .. math::
-        x \frac{d f(x)}{x} + f(x) - f(x)^2=0
+        x \frac{d f(x)}{d x} + f(x) - f(x)^2=0
 
    2. Solve the same equation using hint='Bernoulli'. What do you observe ?
